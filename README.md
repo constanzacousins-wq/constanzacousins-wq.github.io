@@ -56,7 +56,7 @@ Dentro del portafolio se integran los siguientes proyectos:
 1. Clona este repositorio:
 ```bash
 git clone https://github.com/constanzacousins-wq/constanzacousins-wq.github.io.git
-
+---
 
 ## 📸 Evidencia Fork 1
 
