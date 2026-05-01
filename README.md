@@ -54,14 +54,17 @@ Dentro del portafolio se integran los siguientes proyectos:
 ##  Cómo usar este proyecto
 
 1. Clona este repositorio:
+
 ```bash
 git clone https://github.com/constanzacousins-wq/constanzacousins-wq.github.io.git
+```
+
 ---
 
 ## 📸 Evidencia Fork 1
 
-## 📸 Evidencia Fork 1
 ![Fork 1](assets/img/fork1.jfif)
 
 ## 📸 Evidencia Commit Fork 1
+
 ![Commit 1](assets/img/commit1.jpeg)
