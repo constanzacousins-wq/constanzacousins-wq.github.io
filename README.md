@@ -60,8 +60,8 @@ git clone https://github.com/constanzacousins-wq/constanzacousins-wq.github.io.g
 
 ## 📸 Evidencia Fork 1
 
-![Fork 1](./assets/img/fork1.jfif)
+## 📸 Evidencia Fork 1
+![Fork 1](assets/img/fork1.jfif)
 
 ## 📸 Evidencia Commit Fork 1
-
-![Commit 1](./assets/img/commit1.jpeg)
+![Commit 1](assets/img/commit1.jpeg)
