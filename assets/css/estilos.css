@@ -37,3 +37,15 @@ body {
   }
 
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+#Acerca-de-mi,
+#Educacion,
+#Experiencia,
+#Mis-trabajos,
+#Contacto {
+  scroll-margin-top: 90px;
+}
